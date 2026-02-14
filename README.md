@@ -9,4 +9,4 @@
 Gunakan **Executor** masing-masing (seperti Solara, Wave, atau Executor lainnya). Salin dan tempel kode di bawah ini:
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/nurd0tid/LastSight-Hub/main/FishIt.lua](https://raw.githubusercontent.com/nurd0tid/LastSight-Hub/main/FishIt.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nurd0tid/LastSight-Hub/main/FishIt.lua"))()
